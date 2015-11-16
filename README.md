@@ -1,10 +1,12 @@
 # life
 
-FIXME: Write a one-line description of your library/project.
+Conway's Game of Life
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+Finally getting around to messing with web stuff (never have had the opportunity
+in my day job). In particular, I'm playing around with Reagent, at least until 
+Om-next settles down.
 
 ## Setup
 

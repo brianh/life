@@ -15,7 +15,7 @@
   ([]
    (make-gol-ui-state default-row-count default-col-count))
   ([m n]
-   (->GolUIState "Hello world (of Life (of Conway))!"
+   (->GolUIState "Conway's Game of Life"
                  1000
                   nil
                  {:magnification 15
